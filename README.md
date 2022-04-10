@@ -13,6 +13,9 @@ To set driver's preferred location
 
 `POST method`
 `/set_preferred_location`
+
+body
+
 ```
 {
     "id": "<unique id>",
