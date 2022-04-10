@@ -8,8 +8,8 @@
 # Apis
 
 To set driver's preferred location
-`POST method
-`/set_preferred_location
+`POST method`
+`/set_preferred_location`
 ```
 {
     "id": "<unique id>",
@@ -18,5 +18,5 @@ To set driver's preferred location
 ```
 
 To Select a driver
-`GET method
-`/select_ride?lat=<lat>&lon=<lon>
+`GET method`
+`/select_ride?lat=<lat>&lon=<lon>`
