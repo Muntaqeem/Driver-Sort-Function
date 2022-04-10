@@ -2,12 +2,15 @@
 
 # Install
 
-`npm i
-`npm run watch
+```
+npm i
+npm run watch
+```
 
 # Apis
 
 To set driver's preferred location
+
 `POST method`
 `/set_preferred_location`
 ```
@@ -18,5 +21,6 @@ To set driver's preferred location
 ```
 
 To Select a driver
+
 `GET method`
 `/select_ride?lat=<lat>&lon=<lon>`
